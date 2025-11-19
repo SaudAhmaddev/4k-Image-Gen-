@@ -1,0 +1,5 @@
+{
+  "name": "Lumina 4K Gen",
+  "description": "High-fidelity AI image generation suite powered by Gemini Imagen 4.0. Features automatic prompt enhancement and batch downloading.",
+  "requestFramePermissions": []
+}
